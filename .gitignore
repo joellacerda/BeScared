@@ -1,0 +1,30 @@
+# --- MAC OS ---
+.DS_Store
+
+# --- JAVA / MAVEN ---
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+*.class
+*.log
+.idea/
+*.iml
+
+# --- IOS / XCODE ---
+build/
+*.mode1v3
+*.mode2v3
+*.pbuser
+.default
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# --- SWIFT PACKAGE MANAGER ---
+.build/
